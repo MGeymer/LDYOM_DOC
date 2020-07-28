@@ -1,0 +1,29 @@
+site_name: LDYOM Docs
+
+theme:
+  name: material
+  language: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets
+  - pymdownx.emoji
+  - pymdownx.magiclink
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      use_pygments: true
+
+nav:
+  - English:
+    - Overview : index.md
+    - Basics : 
+      - Install : en/Basics/install.md
+      - Simple mission : en/Basics/simple_mission.md
+  - Русский:
+    - Обзор : ru/index.md
+    - Основы : 
+      - Установка : ru/Basics/install.md
+      - Простая миссия : ru/Basics/simple_mission.md
