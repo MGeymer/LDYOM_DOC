@@ -8,6 +8,6 @@
 1. ВК - https://vk.com/ldyom
 2. C Оф.сайта - https://ldyom.000webhostapp.com/
 
-Разархивируйте папки ***moonloader*** и ***MPACK***, папку ***moonloader*** переместите в директорию своей GTA, а ***MPACK*** в *"...\Documents\GTA San Andreas User Files"*.
+Разархивируйте папки ***GTA*** и ***MPACK***, всё из папки ***GTA*** переместите в директорию своей GTASA, а ***MPACK*** в *"...\Documents\GTA San Andreas User Files"*.
 
 Всё установка закончена.

@@ -8,6 +8,6 @@ First, download the archive from LDYOM. You can do it in:
 1. VK - https://vk.com/ldyom
 2. From the official website - https://ldyom.000webhostapp.com/
 
-Unzip the ***moonloader*** and ***MPACK*** folders, move the ***moonloader*** folder to your GTA directory, and move the ***MPACK*** to *"...\Documents\GTA San Andreas User Files"*.
+Extract the folders ***GTA*** and ***MPACK***, move everything from ***GTA*** to the directory of your GTASA, and ***MPACK*** to *"... \Documents\GTA San Andreas User Files "*.
 
 The entire installation is complete.
