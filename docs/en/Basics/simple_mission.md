@@ -307,3 +307,4 @@ The whole mission is ready, we keep the mission and we can check it out.
 ![screen63](../../img\Screenshot_63.jpg)
 
 You should have a mission in the end. If you have any difficulties or misunderstandings you can download my [save (Beta 0.7.0)](../files\Simple_mission.zip).
+Installation: Put the folder from the archive into the directory *"... \moonloader\Missions_pack"*
