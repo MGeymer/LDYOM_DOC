@@ -1,6 +1,8 @@
 ## Требования
 1. Grand Theft Auto: San Andreas с версией 1.0 US 'HoodLum' (желательно чистая)
 2. Установленный ASI Loader
+3. Установленный CLEO4 (https://cleo.li)
+4. Установленный Moonloader 0.27 (https://blast.hk/moonloader/files/moonloader-027.0-preview3.zip)
 
 ## Установка
 Для начала скачиваем архив с LDYOM. Это можно сделать в:

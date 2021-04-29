@@ -306,5 +306,8 @@ The whole mission is ready, we keep the mission and we can check it out.
 
 ![screen63](img/Screenshot_63.jpg)
 
-You should have a mission in the end. If you have any difficulties or misunderstandings you can download my [save (Beta 0.7.0)](Simple_mission.zip).
-Installation: Put the folder from the archive into the directory *"... \moonloader\Missions_pack"*
+You should have a mission in the end. If you have any difficulties or misunderstandings you can download my save [(Beta 0.7.0)](Simple_mission.zip), [(Beta 0.7.1)](Simple_LDYOM_Mission_0.7.1.zip).
+
+(Beta 0.7.0) Installation: Put the folder from the archive into the directory *"...\moonloader\Missions_pack"*
+
+(Beta 0.7.1) Installation: Put the folder from the archive into the directory *"...\LDYOM\Missions_packs"*
